@@ -1,13 +1,6 @@
-# boilerplate code
-from __future__ import print_function
 import os
-from io import BytesIO
 import numpy as np
-from functools import partial
 import PIL.Image
-from IPython.display import clear_output, Image, display, HTML
-import IPython.display
-from PIL import Image
 
 #import tensorflow as tf
 import tensorflow.compat.v1 as tf

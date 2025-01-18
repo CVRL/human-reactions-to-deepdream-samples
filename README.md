@@ -16,6 +16,8 @@ This repository is the official code used to generate the images used in the pap
   <img src="lockluck.png" width="700" />
 </p>
 
+*Figure above: Overview of the experiment carried out in this study. The visual stimuli were synthesized in a way to activate selected sections (e.g., layers) of an Artificial Neural Network (ANN). Such stimuli, when presented to a subject, evoked reactions that were self-reported by selecting the levels of arousal and valence experienced during the experiment. The colors matching various sections of the ANN and the brain illustrate the hypothesis that visual signals synthesized that way may stimulate different functional brain areas, resulting in different emotional reactions.*
+
 ## How to run
 
 Modify (if needed) and run `Image_Generation.py` to generate dream-ified pictures starting from the noise samples included into this repository.

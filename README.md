@@ -13,7 +13,7 @@ This repository is the official code used to generate the images used in the pap
 **Conclusions:** This study demonstrates that the specific method of synthesizing images by maximizing small and precisely-selected parts of the CNN used in this work may lead to synthesis of visual stimuli that enhance or attenuate emotional reactions. This method paves the way for developing tools that stimulate, in a non-invasive way, to support wellbeing (manage stress, enhance mood) and to assist patients with certain mental conditions by complementing traditional methods of therapeutic interventions.
 
 <p align="center">
-  <img src="lockluck.png" width="500" />
+  <img src="lockluck.png" width="700" />
 </p>
 
 ## How to run

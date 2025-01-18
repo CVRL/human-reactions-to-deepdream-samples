@@ -26,7 +26,7 @@ Modify (if needed) and run `Image_Generation.py` to generate dream-ified picture
 
 ```
 @article{10.3389/fpsyg.2024.1509392,
-  AUTHOR={Marczak-Czajka, Agnieszka  and Redgrave, Timothy  and Mitcheff, Mahsa  and Villano, Michael  and Czajka, Adam },
+  AUTHOR={Marczak-Czajka, Agnieszka and Redgrave, Timothy and Mitcheff, Mahsa and Villano, Michael and Czajka, Adam},
   TITLE={Assessment of human emotional reactions to visual stimuli “deep-dreamed” by artificial neural networks},
   JOURNAL={Frontiers in Psychology},
   VOLUME={15},
